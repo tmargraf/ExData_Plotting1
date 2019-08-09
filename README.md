@@ -1,6 +1,29 @@
+## Margraf Project Submission for Month 4 Week 1 "Household Electric Power Consumption"
+
+To run the code: source each file, and run each method respectively.
+
+<ol>
+<li><b>Download the 4 source files</b></li>
+<li><b>Source the 4 files in R</b></li>
+<li><b>Download the source data into the same directory, make sure it's named household_power_consumption.txt</b> </li>
+<li><b>Set the current working directory in R to the folder where the R files are</b></li>
+<li><b>Call the functions in each file, respectively</b></li>
+<li><b>Find the resulting PNG files in the same directory</b></li> 
+</ol>   
+ 
+
+
+
+
+
+Below are the original Instructions for the project
+
+*************************************************************************************
+
+
 ## Introduction
 
-This assignment uses data from
+This assignment uses data from 
 the <a href="http://archive.ics.uci.edu/ml/">UC Irvine Machine
 Learning Repository</a>, a popular repository for machine learning
 datasets. In particular, we will be using the "Individual household
