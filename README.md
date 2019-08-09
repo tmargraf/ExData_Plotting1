@@ -1,6 +1,6 @@
 ## Margraf Project Submission for Month 4 Week 1 "Household Electric Power Consumption"
 
-To run the code: source each file, and run each method respectively.
+To run the code:
 
 <ol>
 <li><b>Download the 4 source files</b></li>
